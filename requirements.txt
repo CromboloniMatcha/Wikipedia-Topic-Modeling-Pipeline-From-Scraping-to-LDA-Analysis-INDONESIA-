@@ -1,0 +1,11 @@
+# Web Scraping & Data Handling
+requests
+beautifulsoup4
+pandas
+tqdm # Untuk progress bar
+
+# NLP & Topic Modeling
+nltk
+scikit-learn
+gensim
+pyLDAvis # Untuk visualisasi (opsional, tapi sangat dianjurkan)
